@@ -18,7 +18,7 @@
 - 🚧 I'm planning on building a [personal website](http://www.netanimations.net/animated-roped-off-construction-barracades.gif) in the near future  
   
 
-- 🧠 I'm always open to learning new languages and expanding my knowledge of computer software  
+- 🧠 I'm always open to learning new languages and expanding my computing skills 
   
 
 <br/>  
