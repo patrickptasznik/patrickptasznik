@@ -6,10 +6,10 @@
 <div align="center">ece 391 next sem got me like</div>  
   
 
-### <div align="center">Hello! I'm Patrick Ptasznik, a sophomore studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
+### <div align="center">Hello! I'm Patrick Ptasznik, a junior studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
   
 
-- 🤖 I’m currently working on [PWNYBOT](https://github.com/sigpwny/pwnybot), a discord bot for UIUC's biggest cybersecurity club  
+- 🤖 I have worked on [PWNYBOT](https://github.com/sigpwny/pwnybot), a discord bot for UIUC's biggest cybersecurity club  
   
 
 - ⌨️ I’m currently learning HTML and CSS through [FreeCodeCamp](https://www.freecodecamp.org/learn/) and Python by working on [PWNYBOT](https://github.com/sigpwny/pwnybot)  
