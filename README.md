@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">cs classes got me like</div>  
+<div align="center">ece 391 next sem got me like</div>  
   
 
 ### <div align="center">Hello! I'm Patrick Ptasznik, a sophomore studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
