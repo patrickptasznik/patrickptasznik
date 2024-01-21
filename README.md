@@ -15,10 +15,10 @@
 - ⌨️ I just finished building my own personal website, but I'm still working on figuring out its hosting!
   
 
-- 🚧 I'm currently in ECE 391, where we build an OS with several advanced functions using C.
+- 🚧 I'm currently in ECE 391, where we build an OS with several advanced functions using C and x86 Assembly.
   
 
-- 🧠 I'm always open to learning new languages and expanding my computing skills 
+- 🧠 I'm always open to learning new languages and expanding my computing skills!
   
 
 <br/>  
