@@ -9,18 +9,17 @@
 ### <div align="center">Hello! I'm Patrick Ptasznik, a junior studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
   
 
-- 🤖 I have worked on [PWNYBOT](https://github.com/sigpwny/pwnybot), a discord bot for UIUC's biggest cybersecurity club  
+- 👨‍💻 I am an incoming Cybersecurity Intern at <a href = "https://www.mondelezinternational.com/">Mondelēz International</a> for the Summer of 2024.
   
 
-- ⌨️ I just finished building my own personal website, but I'm still working on figuring out its hosting!
+- ⌨️ I just finished building my own personal website, but I'm still workig on figuring out some responsive design issues.
   
 
-- 🚧 I'm currently in ECE 391, where we build an OS with several advanced functions using C and x86 Assembly.
+- 🚧 I'm currently in ECE 391, where I am building a Linux-Like Operating System with several advanced functions using C and x86 Assembly.
   
 
-- 🧠 I'm always open to learning new languages and expanding my computing skills!
+- 🧠 I'm always open to learning new competencies and expanding my computing skills!
   
-
 <br/>  
 
 
