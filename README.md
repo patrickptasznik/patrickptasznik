@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">ece 391 this sem got me like</div>  
+<div align="center">ece 391 got me like</div>  
   
 
 ### <div align="center">Hello! I'm Patrick Ptasznik, a junior studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
