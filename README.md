@@ -6,19 +6,19 @@
 <div align="center">ece 391 got me like</div>  
   
 
-### <div align="center">Hello! I'm Patrick Ptasznik, a junior studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
+### <div align="center">Hello! I'm Patrick Ptasznik, a senior studying computer engineering at the University of Illinois Urbana-Champaign. 👨‍💻</div>  
   
 
-- 👨‍💻 I am an incoming Cybersecurity Intern at <a href = "https://www.mondelezinternational.com/">Mondelēz International</a> for the Summer of 2024.
+- 👨‍💻 I just finished my summer internship as a Cybersecurity SWE at <a href = "https://www.mondelezinternational.com/">Mondelēz International</a>!
   
 
 - ⌨️ I just finished building my own personal website, but I'm still workig on figuring out some responsive design issues.
   
 
-- 🚧 I'm currently in ECE 391, where I am building a Linux-Like Operating System with several advanced functions using C and x86 Assembly.
+- 🚧 My current main class is ECE 374, where I am focusing on mastering key theoretical concepts in computer science, including designing algorithms, understanding formal languages, and working with complex computational problems.
   
 
-- 🧠 I'm always open to learning new competencies and expanding my computing skills!
+- 🧠 I'm always open to learning new competencies and expanding my computing skills- just shoot me a message!
   
 <br/>  
 
